@@ -3,9 +3,9 @@
 
 ## I. Android Nativo
 
-1. Notícias Futebol Feminino <a href="https://github.com/KatarineAlbuquerque/noticias-futebol-feminino-android-app">Abrir Prjeto</a>
+1. Notícias Futebol Feminino <a href="https://github.com/KatarineAlbuquerque/noticias-futebol-feminino-android-app">Abrir Projeto</a>
 
-2. Businnes Card <a href="https://github.com/KatarineAlbuquerque/businnes-card-app-android">Abrir Prjeto</a>
+2. Businnes Card <a href="https://github.com/KatarineAlbuquerque/businnes-card-app-android">Abrir Projeto</a>
 
 3. Portfólio GitHub <a href="https://github.com/KatarineAlbuquerque/meu-portfolio-github-app-android">Abrir Projeto</a>
 
