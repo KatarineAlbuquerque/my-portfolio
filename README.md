@@ -28,3 +28,9 @@
 4. Condicionais <a href="https://katarinealbuquerque.github.io/reactjs-app-condicionais-exemplo/">Abrir Projeto</a>
 
 5. Array <a href="https://katarinealbuquerque.github.io/react-demo-array-app/">Abrir Projeto</a>
+
+## V. Autor
+
+#### Katarine Albuquerque
+##### _Linkedin_: <a href="https://www.linkedin.com/in/katarine-albuquerque/">/katarine-albuquerque</a>
+##### _GitHub_: <a href="https://github.com/KatarineAlbuquerque">/KatarineAlbuquerque</a>
