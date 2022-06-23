@@ -9,6 +9,8 @@
 
 * Portfólio GitHub <a href="https://github.com/KatarineAlbuquerque/meu-portfolio-github-app-android">Abrir Projeto</a>
 
+* Contagem de Notas <a href="https://github.com/KatarineAlbuquerque/demo-note-counting-kotlin-android">Abrir Projeto</a>
+
 ## II. Front-end
 
 * Instagram Clone <a href="https://katarinealbuquerque.github.io/site-instagram-clone/">Abrir Projeto</a>
