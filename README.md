@@ -20,6 +20,7 @@
 
 ## III. Projeto React JS com API Rest
 
+* Meu Repositório do GitHub <a href="https://katarinealbuquerque.github.io/demo-my-repository-github-reactjs/">Abrir Projeto</a>
 * Galeria de Animais <a href="https://katarinealbuquerque.github.io/site-galeria-de-animais-reactjs-app/">Abrir Projeto</a>
 
 ## IV. Projeto Typescript 
