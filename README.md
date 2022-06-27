@@ -17,17 +17,17 @@
 
 * Netflix Clone <a href="https://katarinealbuquerque.github.io/site-netflix-clone/">Abrir Projeto</a>
 
-## III. Projeto React Js Fron-end
+## III. React Js Fron-end
 
 * Facebook Clone <a href="https://katarinealbuquerque.github.io/facebook-clone-reactjs-site/">Abrir Projeto</a>
 
 
-## IV. Projeto React JS com API Rest
+## IV. React JS com API Rest
 
 * Meu Repositório do GitHub <a href="https://katarinealbuquerque.github.io/demo-my-repository-github-reactjs/">Abrir Projeto</a>
 * Galeria de Animais <a href="https://katarinealbuquerque.github.io/site-galeria-de-animais-reactjs-app/">Abrir Projeto</a>
 
-## V. Projeto React JS Demos
+## V. React JS Demos
 
 * Components <a href="https://katarinealbuquerque.github.io/react-demo-components-app/">Abrir Projeto</a>
 
@@ -43,7 +43,7 @@
 
 * Encurtador de Url <a href="https://github.com/KatarineAlbuquerque/projeto-encurtador-url-nodejs">Abrir Projeto</a>
 
-## VII. Projeto Typescript 
+## VII. Typescript 
 
 * Estacionamento <a href="https://katarinealbuquerque.github.io/projeto-estacionamento-typescript/">Abrir Projeto</a>
 
