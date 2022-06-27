@@ -17,7 +17,7 @@
 
 * Netflix Clone <a href="https://katarinealbuquerque.github.io/site-netflix-clone/">Abrir Projeto</a>
 
-## III. React Js Fron-end
+## III. Projeto React Js Fron-end
 
 * Facebook Clone <a href="https://katarinealbuquerque.github.io/facebook-clone-reactjs-site/">Abrir Projeto</a>
 
