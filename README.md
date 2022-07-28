@@ -3,7 +3,7 @@
 
 ## I. Java
 
-* Academia Spring Boot JPA <a href="https://github.com/KatarineAlbuquerque/my-portfolio.git">Abrir Projeto</a>
+* Academia Spring Boot JPA <a href="https://github.com/KatarineAlbuquerque/demo-spring-boot-jpa-academia">Abrir Projeto</a>
 
 ## II. Android Nativo
 
