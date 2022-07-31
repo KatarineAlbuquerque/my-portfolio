@@ -4,7 +4,7 @@
 
 ## Java
 
-Parking REST API Online <a href="https://app-parking-spring-boot.herokuapp.com/swagger-ui/index.html">Abrir Projeto</a>
+Parking REST API Spring Boot Online <a href="https://app-parking-spring-boot.herokuapp.com/swagger-ui/index.html">Abrir Projeto</a>
 
 Academia Spring Boot JPA <a href="https://github.com/KatarineAlbuquerque/demo-spring-boot-jpa-academia">Abrir Projeto</a>
 
