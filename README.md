@@ -22,6 +22,10 @@ Contagem de Notas <a href="https://github.com/KatarineAlbuquerque/demo-note-coun
 
 Estacionar App <a href="https://github.com/KatarineAlbuquerque/app-estacionar-dotnet">Abrir Projeto</a>
 
+Hotel App <a href="https://github.com/KatarineAlbuquerque/hotel-app-dotnet-demo">Abrir Projeto</a>
+
+Celular App <a href="https://github.com/KatarineAlbuquerque/app-celular-demo-dotnet">Abrir Projeto</a>
+
 ## Front-end
 
 Instagram Clone <a href="https://katarinealbuquerque.github.io/site-instagram-clone/">Abrir Projeto</a>
