@@ -26,6 +26,8 @@ Hotel App <a href="https://github.com/KatarineAlbuquerque/hotel-app-dotnet-demo"
 
 Celular App <a href="https://github.com/KatarineAlbuquerque/app-celular-demo-dotnet">Abrir Projeto</a>
 
+Projeto API <a href="https://github.com/KatarineAlbuquerque/projeto-tecnico-de-api-rest-net-core">Abrir Projeto</a>
+
 ## Front-end
 
 Instagram Clone <a href="https://katarinealbuquerque.github.io/site-instagram-clone/">Abrir Projeto</a>
